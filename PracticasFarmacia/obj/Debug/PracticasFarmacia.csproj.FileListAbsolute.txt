@@ -1,0 +1,8 @@
+C:\Users\Ricar\OneDrive\Escritorio\PracticasFarmacia\bin\Debug\PracticasFarmacia.exe.config
+C:\Users\Ricar\OneDrive\Escritorio\PracticasFarmacia\bin\Debug\PracticasFarmacia.exe
+C:\Users\Ricar\OneDrive\Escritorio\PracticasFarmacia\bin\Debug\PracticasFarmacia.pdb
+C:\Users\Ricar\OneDrive\Escritorio\PracticasFarmacia\obj\Debug\PracticasFarmacia.csproj.AssemblyReference.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticasFarmacia\obj\Debug\PracticasFarmacia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticasFarmacia\obj\Debug\PracticasFarmacia.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticasFarmacia\obj\Debug\PracticasFarmacia.exe
+C:\Users\Ricar\OneDrive\Escritorio\PracticasFarmacia\obj\Debug\PracticasFarmacia.pdb
